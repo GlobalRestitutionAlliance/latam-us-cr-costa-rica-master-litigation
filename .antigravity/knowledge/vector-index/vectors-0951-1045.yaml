@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Costa Rica
+  iso: CR
+  block: 11
+  range: [951,1045]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "CR-V-0951"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0952"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0953"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0954"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0955"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0956"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0957"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0958"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0959"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0960"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0961"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0962"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0963"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0964"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0965"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0966"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0967"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0968"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0969"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0970"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0971"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0972"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0973"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0974"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0975"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0976"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0977"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0978"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0979"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0980"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0981"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0982"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0983"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0984"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0985"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0986"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0987"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0988"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0989"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0990"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0991"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0992"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0993"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0994"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0995"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0996"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0997"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0998"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-0999"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1000"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1001"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1002"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1003"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1004"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1005"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1006"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1007"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1008"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1009"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1010"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1011"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1012"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1013"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1014"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1015"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1016"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1017"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1018"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1019"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1020"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1021"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1022"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1023"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1024"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1025"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1026"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1027"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1028"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1029"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1030"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1031"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1032"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1033"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1034"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1035"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1036"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1037"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1038"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1039"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1040"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1041"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1042"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1043"
+      anchor: "Environmental conservation and climate adaptation burden"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1044"
+      anchor: "Regional Contra-era security pressures (public historical record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CR-V-1045"
+      anchor: "Abolition of military and peace model"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
